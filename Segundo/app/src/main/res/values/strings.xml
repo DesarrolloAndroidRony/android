@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Segundo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <!-- barra menu-->
+    <string name="action_Info">Informacio</string>
+    <string name="action_Delete">Reiniciar</string>
+
+    <!--inicio de pantalla-->
+    <string name="lb_Primer_Numero">Primer Numero</string>
+    <string name="lb_Segundo_numero">Segundo Numero</string>
+    <string name="hid_Ayuda">Ej: 1234</string>
+    <string name="btn_Operara">Operar</string>
+    <string name="title_activity_resutados">Resutados</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- fin pantalla-->
+
+</resources>

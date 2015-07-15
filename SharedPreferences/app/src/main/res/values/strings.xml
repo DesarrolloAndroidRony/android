@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SharedPreferences</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Correo">Ingrese su Correo</string>
+    <string name="Botom">Guardar</string>
+
+</resources>

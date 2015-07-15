@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Palabra</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Lt_palabra">Ingresa Tu Palabra</string>
+    <string name="Hd_ingreso">Ingrese Aqui</string>
+    <string name="Btn_preciona">Calular El Largo</string>
+    <string name="Lt_muestra">0</string>
+    <string name="title_activity_segunda_vista">SegundaVistaActivity</string>
+
+
+
+</resources>
