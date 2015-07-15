@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebVew</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="Bucar">Ingrese su busqueda</string>
+    <string name="btn_busqueda">Buscar en RAE</string>
+    <string name="Ingresa_tu_palabra">Ingresa tu palabra</string>
+
+
+</resources>
